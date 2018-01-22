@@ -566,7 +566,6 @@ body {
 }
 .tablet_arrows>img {
     width: 100%;
-    height: 20%;
 }
 .tablet_arrows#w>img, .tablet_arrows#ArrowUp>img{
     position: relative;
