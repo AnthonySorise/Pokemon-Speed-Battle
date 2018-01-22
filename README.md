@@ -1,6 +1,6 @@
 # Pokemon Speed Battle
 
-<h3>A Pokemon Themed 2-Player Speed Sequence Game</h3>
+<h3>A Pokemon Themed Two-Player Speed Sequence Game</h3>
 
 ![Alt text](/images/readme.png?raw=true "Pokemon Speed Battle")
 
