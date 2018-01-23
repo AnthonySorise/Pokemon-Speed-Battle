@@ -137,15 +137,15 @@ body {
     font-size: 85px;
     font-family: manaspc, arial;
     z-index: 5000;
-    bottom: 25%;
+    bottom: 25vh;
 }
 
 .attackText#attackText0 {
-    left: 27%;
+    left: 27vw;
 }
 
 .attackText#attackText1 {
-    left: 58%;
+    left: 58vw;
 }
 
 .player_key_display
